@@ -1,5 +1,5 @@
 # andydiep-portfolio
-A portfolio of who I am, my skills, resume, education, and work history.
+Reupload of a portfolio of who I am, my skills, resume, education, and work history.
 
 # Getting Started with React App
 
